@@ -1,6 +1,10 @@
 #!/usr/bin/ruby
 #
+# <<<<<<< HEAD
 # Making a change in not foo :-(
+# =======
+# Lets make a change --->   :-)
+# >>>>>>> 5eb6ee48f3ca06b41b9401fe932c42b2715d230f
 #
 # Apache2 log analyzer to count unique ips and number of queries
 #
