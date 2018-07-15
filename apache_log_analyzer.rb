@@ -1,5 +1,7 @@
 #!/usr/bin/ruby
 #
+# Making a change in not foo :-(
+#
 # Apache2 log analyzer to count unique ips and number of queries
 #
 # This script is used to find the unique ips in an apache2 access.log
